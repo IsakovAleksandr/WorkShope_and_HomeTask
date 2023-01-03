@@ -1,0 +1,15 @@
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/obj/Debug/net6.0/Ex001_HelloUser.csproj.AssemblyReference.cache
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/obj/Debug/net6.0/Ex001_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/obj/Debug/net6.0/Ex001_HelloUser.AssemblyInfoInputs.cache
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/obj/Debug/net6.0/Ex001_HelloUser.AssemblyInfo.cs
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/obj/Debug/net6.0/Ex001_HelloUser.csproj.CoreCompileInputs.cache
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/bin/Debug/net6.0/Ex001_HelloUser
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/bin/Debug/net6.0/Ex001_HelloUser.deps.json
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/bin/Debug/net6.0/Ex001_HelloUser.runtimeconfig.json
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/bin/Debug/net6.0/Ex001_HelloUser.dll
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/bin/Debug/net6.0/Ex001_HelloUser.pdb
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/obj/Debug/net6.0/Ex001_HelloUser.dll
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/obj/Debug/net6.0/refint/Ex001_HelloUser.dll
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/obj/Debug/net6.0/Ex001_HelloUser.pdb
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/obj/Debug/net6.0/Ex001_HelloUser.genruntimeconfig.cache
+/Users/aleksandrisakov/Desktop/Programming_C#/WorkShope_and_HomeTask/Ex001_HelloUser/obj/Debug/net6.0/ref/Ex001_HelloUser.dll
