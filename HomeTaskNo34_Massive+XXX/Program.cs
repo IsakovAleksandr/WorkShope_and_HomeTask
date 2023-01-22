@@ -16,8 +16,6 @@ int[] CreateRandomArray(int N, int start, int end)
     }
     return RandomArray;
 }
-int GetEven()
-{
     int i = 0;
     int qty = 0;
     while (i < array.Length)
@@ -26,11 +24,7 @@ int GetEven()
         if (array[i] % 2 == 0)
         {
             qty += 1;
-
         }
         i++;
-
     }
-    return qty;
-}
-Console.WriteLine(GetEven(array));
+Console.WriteLine(qty);
