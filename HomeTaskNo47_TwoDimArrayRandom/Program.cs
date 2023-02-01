@@ -12,7 +12,8 @@ double[,] CreateAray(int row, int col, double minValue, double maxValue)
     {
         for (int j = 0; j < col; j++)
         {
-            dArray[i, j] = Math.Round(new Random().NextDouble() * 10 - 10, 1);
+            dArray[i, j] = new Random().NextDouble() * (maxValue - minValue) + minValue;
+            // dArray[i, j] = Math.Round(new Random().NextDouble() * 15 - 10, 1);
         }
     }
     return dArray;
@@ -24,7 +25,7 @@ void PrintArray(double[,] inArray)
     {
         for (int j = 0; j < inArray.GetLength(1); j++)
         {
-            Console.Write($"{inArray[i, j]} ");
+            Console.Write($"{inArray[i, j]:f1} ");
         }
         Console.WriteLine();
     }
@@ -32,5 +33,5 @@ void PrintArray(double[,] inArray)
 
 int m = 3;
 int n = 4;
-double[,] array = CreateAray(m, n, -2, 2);
+double[,] array = CreateAray(m, n, -5, 5);
 PrintArray(array);
